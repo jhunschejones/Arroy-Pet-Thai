@@ -1,4 +1,4 @@
-# Arroy Pet Thai || HTML and CSS
+# Arroy Pet Thai (HTML and CSS)
 ## Overview
 This is a project I created at The Tech Academy, a coding boot camp in downtown Portland, Oregon where I am a current student. I entered a starter framework for the CSS and adjusted the content to look like a basic website a local food cart might use. 
 
